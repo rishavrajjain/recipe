@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033854183244",
+    "project_id": "recipe-wallet-dc93e",
+    "storage_bucket": "recipe-wallet-dc93e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033854183244:android:f964252ab3fb415b2451e9",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiX6-bFz5C8EBdxsIEBcT0GuYtw7kk-Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
